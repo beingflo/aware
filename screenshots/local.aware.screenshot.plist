@@ -7,7 +7,7 @@
 	<key>Program</key>
 	<string>/Users/florian/Projects/aware/screenshots/screenshot.sh</string>
   <key>StartInterval</key>
-  <integer>120</integer>
+  <integer>600</integer>
 	<key>StandardOutPath</key>
 	<string>/Users/florian/Projects/aware/screenshots/log.stdout</string>
 	<key>StandardInPath</key>
