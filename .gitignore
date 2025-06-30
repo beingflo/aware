@@ -1,3 +1,4 @@
 log.*
 windows.csv
+**/.DS_Store
 screenshots/data/*.jpg
